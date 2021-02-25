@@ -1,6 +1,6 @@
 # STAT-724
 
-STAT 724: Intro in Data Science and Machine Learning
+Intro in Data Science and Machine Learning
 
 Description:
 - The course gives an overview, from Statistical point of view, of Data Science and its core Machine Learning models and algorithms. It provides detailed knowledge of how these methods work and how statistical models are applied to analyze large data sets. The focus is on the important tasks of classification and regression (so called Supervised Learning) and clustering and anomaly detection (Unsupervised Learning). The data analysis friendly approach requires the use of a good statistical software. Python, which is the most popular open source scripting language for Data Science at the moment, will be used for analysis and modeling. The syntax and the environment will be discussed in enough detail. Code in Python (and R) will also be provided.
