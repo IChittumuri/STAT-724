@@ -1,6 +1,7 @@
 # Intro-Machine-Learning
 
-Material Covered (based on chapters in [ISLR])
+Materials Covered (based on chapters in [ISLR])
+
 [1] Linear Regression, K-Nearest Neighbors
 [2] Classification – Logistic Regression, Linear Discriminant Analysis 
 [3] Resampling Methods – Cross-Validation, Bootstrap
