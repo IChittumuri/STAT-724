@@ -12,7 +12,7 @@ Required textbooks:
 Recommended:
 - [HOML] Hands-On Machine Learning with SciKit-Learn, Keras and TensorFlow by Aurelien Geron, 2nd Edition, O’Reilly Media (2019), ISBN: 978-1-492-03264-9
  
-Materials Covered (based on chapters in [ISLR]):
+Material Covered (based on chapters in [ISLR]):
 
 [1] Linear Regression, K-Nearest Neighbors
 [2] Classification – Logistic Regression, Linear Discriminant Analysis 
